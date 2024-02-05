@@ -1,0 +1,15 @@
+{
+  "name": "JavaScript-Hello-world-function",
+  "version": "1.0.0",
+  "description": "This function may appear simple, but it encapsulates various JavaScript concepts. It's crucial to have a fundamental understanding of JavaScript to comprehend the underlying concepts.",
+  "repository": "git@github.com:Mujeeb4582/JavaScript-Hello-world-function.git",
+  "author": "Mujeeb-ur-Rahman <mujeeburhaman4582@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  }
+}
